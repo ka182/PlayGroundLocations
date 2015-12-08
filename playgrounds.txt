@@ -1,0 +1,569 @@
+Donegal
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ballyshannon	Mall Park	Planned
+Narin Portnoo	Dolmen Centre	Established
+Ballybofey	 	Planned
+Ballyliffen	 	Established
+Buncrana	Festival Park	Established	 	 	 
+Buncrana	Marian Park	Established	 	 	 
+Bundoran	Drumacrin	Established	 	 	 
+Bundoran	Waterworld	Established	 	 	 
+Bundoran	Westend	Established	 	 	 
+Burtonport	 	Established	 	 	 
+Cross & Killygordon	 	Planned	 	 	 
+Culdaff	 	Established	 	 	 
+Falcaragh	 	Planned	 	 	 
+Dungloe	Foreshore	Planned	 	 	 
+Glencolmcille	 	Established	 	 	 
+Glenties	 	Planned	 	 	 
+Gweedore	St.Marys Close	Established	 	 	 
+Killybegs	 	Planned	 	 	 
+Letterkenny	Town Park	Established	 	 	 
+Letterkenny	Glenwood Park	Planned	 	 	 
+Lifford	Porthall	Established	 	 	 
+Lifford	 	Planned	 	 	 
+Manorcunningham	 	Planned	 	 	 
+Milford	Mount Marian	Planned	 	 	 
+Moville	 	Established	 	 	 
+Moville	 	Planned	 	 	 
+Newtowncunningham	Castlepark	Established	 	 	 
+Pettigo	Little Smarties	Established	 	 	 
+Ramelton	 	Planned	 	 	 
+Rathmullan	 	Planned	 	 	 
+Rathmullan (21)	 	Planned	 	 	 
+St.John Bosco Junior & Senior	 	Established	 	 	 
+Stranorlar	 	Planned
+Sligo County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ballymote	 	Established	 	 	 
+Cranmore	 	Under Construction	 	 	 
+Dromore West	 	Established	 	 	 
+Enniscrone	 	Established	 	 	 
+Riverstown	 	Under Construction	 	 	 
+Sligo City	Mitchel Curley Park	Established	 	 	 
+Sligo City	Hillside Adventure Park	Established	 	 	 
+Tubbercurry	 	Established
+Mayo County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ballina	 	Established	 	 	 
+Ballyhaunis	 	Established	 	 	 
+Castlebar	 	Established	 	 	 
+Claremorris	 	Established	 	 	 
+Crossmolina	 	Established	 	 	 
+Newport	 	Established	 	 	 
+Westport	 	Established
+Galway City Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Cappagh Park	 	Established	 	 	 
+Claude Toft Park, Seapoint	 	Established	 	 	 
+Father Burke Park	 	Established	 	 	 
+Leisureland Salthill	 	Established	 	 	 
+South Park	 	Established	 	 	 
+McGraths Field Knocknacarra	 	Established	 	 	 
+Henry Street	 	Established	 	 	 
+Lough Atalia Park	 	Established	 	 	 
+Lakeshore Drive Renmore	 	Established	 	 	 
+Sean Bhaile Estate Doughiska	 	Established	 	 	 
+Ghleann Bhann	 	Established	 	 	 
+Chluain Mhuire	 	Established	 	 	 
+Coole Park	 	Established	 	 	 
+Millennium Childrens Park	 	Established	 	 	 
+Eyre Square	 	Established	 	 	 
+Shantalla Sliding Rock	 	Established	 	 	 
+Ballinfoile Park	 	Established	 	 	 
+Coole Park Extension	 	Under constr	 	 	 
+Ballinfoile Park Extension	 	Under constr	 	 	 
+Merlin/Ballybane	 	Under constr	 	 	 
+Bothar an Choiste	 	Under constr	 	 	 
+Sli Burca	 	Under constr	 	 	 
+Renmore	 	Under constr	 	 	 
+Doughiska-Merlin City Park	 	Under constr	 	 	 
+Rosan Glas	 	Under constr	 	 	 
+Roscam Neighbourhood Park	 	Under constr	 	 	 
+Roscam Housing areas	 	Under constr	 	 	 
+Terryland Forest Park	 	Under constr	 	 	 
+Bothar an Choiste	 	Under constr	 	 	 
+Ballmoneen	 	Under constr	 	 	 
+Millennium Childrens Skate Park	 	Established
+Galway County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Athenry	 	Established	 	 	 
+Ballinasloe Area (3)	 	Established	 	 	 
+Ballinastoe	 	Established	 	 	 
+Ballymoe	 	Planned	 	 	 
+Clifden	 	Planned	 	 	 
+Irishboffin	 	Established	 	 	 
+Loughrea	 	Established	 	 	 
+Loughrea	Dublin Road 	Established	 	 	 
+Oranmore	 	Established	 	 	 
+Oranmore	Rinville Park 	Established	 	 	 
+Portumna	 	Established	 	 	 
+Tuan	Palace Grounds 	Established	 	 	 
+Williamstown	 	Planned
+Clare County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ballyvaughan	 	Planned	 	 	 
+Ennis	Fair Green	Established	 	 	 
+Ennis	Clkoughleigh	Established	 	 	 
+Ennis	Drumbiggle	Established	 	 	 
+Kildysert	 	Planned	 	 	 
+Kilrush	 	Established
+Limerick City Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+People's Park	City Centre	Established 	 	 	 
+O'Brien's Park	Dublin Rd	Established
+Limerick County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Abbeyfeale	 	Established 	 	 	 
+Newcastle West Co	 	Established
+Kerry County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ballybunion	 	Established	 	 	 
+Ballyheigue	 	Under Construction	 	 	 
+Brandon/Clohane	 	Under Construction	 	 	 
+Cahervciveen	 	Established	 	 	 
+Dingle 	Town Park	Established	 	 	 
+Fenit	 	Under Construction	 	 	 
+Killarney 	Town Centre	Established	 	 	 
+Killarney 	Deerpark Playground	Established	 	 	 
+Killarney National Park	 	Established	 	 	 
+Kilorglin	 	Under Construction	 	 	 
+Listowel 	Town Park	Established	 	 	 
+Sneem	 	Under Construction	 	 	 
+Tralee	Rathonane	Established	 	 	 
+Tralee	St.Martin's Park	Established	 	 	 
+Tralee 	Town Park	Established	 	 	 
+Waterville	 	Under Construction
+Cork City Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ballinlough Park	 	Established	 	 	 
+Clashduv Park, Togher	 	Established	 	 	 
+Fitzgeralds Park, The Mardyke	 	Established	 	 	 
+Gerry O' Sullivan Park	 	Established	 	 	 
+Glenamoy Park, Mayfield	 	Established	 	 	 
+Grattan Hill	 	Established	 	 	 
+Lough Mahon Park, Mahon	 	Established	 	 	 
+Shalom Park, Monera Tee	 	Established	 	 	 
+The Lough, Togher	 	Established	 	 	 
+Tory Top Park	 	Established
+Cork County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ballincollig	 	Established	 	 	 
+Ballydehob	 	Established	 	 	 
+Baltimore	 	Established	 	 	 
+Bandon	 	Established	 	 	 
+Banteer	 	Established	 	 	 
+Bantry	 	Established	 	 	 
+Boherbue	 	Established	 	 	 
+Carrigaline	 	Established	 	 	 
+Carrignavar	 	Established	 	 	 
+Carrigtwohill	 	Established	 	 	 
+Castletownbere	 	Established	 	 	 
+Castletownshend	 	Established	 	 	 
+Charleville	 	Established	 	 	 
+Clonakilty	 	Established	 	 	 
+Cobh	Town Park	Established	 	 	 
+Cobh	Five Foot Way	Established	 	 	 
+Courtmacsherry	 	Established	 	 	 
+Douglas	 	Established	 	 	 
+Dunmanway	 	Established	 	 	 
+Fermoy	Town Park	Established	 	 	 
+Fermoy	Clancy Street	Established	 	 	 
+Garryvoe	 	Established	 	 	 
+Glanmire	 	Established	 	 	 
+Glouthanune	 	Established	 	 	 
+Goleen	 	Established	 	 	 
+Kanturk	 	Established	 	 	 
+Kildorrey	 	Established	 	 	 
+Kinsale	 	Established	 	 	 
+Leap	 	Established	 	 	 
+Macroom	 	Established	 	 	 
+Mallow	 	Established	 	 	 
+Midleton	Rosary Street	Established	 	 	 
+Midleton	Park Street	Established	 	 	 
+Millstreet	 	Established	 	 	 
+Monkstown	 	Established	 	 	 
+Newmarket	 	Established	 	 	 
+Rosscarbery	 	Established	 	 	 
+Schull	 	Established	 	 	 
+Skibbereen	 	Established	 	 	 
+Tower/Clogroe	 	Established	 	 	 
+Union Hall	 	Established	 	 	 
+Whitegate	 	Established	 	 	 
+Youghal	Blackwater Heights	Established	 	 	 
+Youghal	 	Established
+Waterford City Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Abbeylands-Housing Estate	 	Established	 	 	 
+Ballbeg Park	 	Under Construction	 	 	 
+Butler Centre Community Centre	 	Under Construction	 	 	 
+Farranshoneen Playground	 	Established	 	 	 
+Gracedieu Heights	 	Established	 	 	 
+People's Park Playground	 	Established	 	 	 
+Railway Square	 	Under Construction
+Waterford County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ardmore	 	Established	 	 	 
+Cappoquin	 	Established	 	 	 
+Dungarvan	 	Established	 	 	 
+Kilacthomas	 	Under Construction	 	 	 
+Lismore	 	Under Construction	 	 	 
+Portlaw	 	Established	 	 	 
+Tallow	 	Established	 	 	 
+Tramore	 	Established
+Tipperary (SR) County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Carrick-on Suir	 	Established	 	 	 
+Carrick-on Suir	 	Established	 	 	 
+Cashel	 	Established	 	 	 
+Clonmel	 	Established	 	 	 
+Clonmel	 	Established	 	 	 
+Cogheen	 	Established
+Offaly County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Birr	 	Under Construction	 	 	 
+Birr	Camcor	Established	 	 	 
+Birr	Mill Island	Established	 	 	 
+Clara	Erry Mill	Established	 	 	 
+Clara	Curragh Rd	Under Construction	 	 	 
+Edenderry	Town	Planned	 	 	 
+Edenderry	Killane	Under Construction	 	 	 
+Tullamore	Town	Established
+Roscommon County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ardsallagh	 	Established	 	 	 
+Boyle	Church View	Established	 	 	 
+Boyle	Plunkett Avenue	Established	 	 	 
+Castlerea	 	Established	 	 	 
+Cloonbrackna	 	Established	 	 	 
+Lisnamult	 	Established	 	 	 
+Lough Key	 	Under Construction	 	 	 
+Monksland	 	Established	 	 	 
+Portrunny	 	Established	 	 	 
+Roscommon	Town Park	Established
+Leitrim County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Balinamore	 	Established	 	 	 
+Carrick on Shannon	 	Established	 	 	 
+Carrick on Shannon	MBNA	Established	 	 	 
+Carrick on Shannon	 	Planned	 	 	 
+Drumshanbo	 	Established	 	 	 
+Fenagh	 	Established	 	 	 
+Glenfarne	 	Established	 	 	 
+Manorhamilton	 	Established	 	 	 
+Manorhamilton	 	Planned	 	 	 
+Mohill	 	Established
+
+Cavan County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Arva	 	Established	 	 	 
+Bailieborough	 	Planned	 	 	 
+Ballyconnell	 	Planned	 	 	 
+Ballyjamesduff	 	Established	 	 	 
+Belturbet	 	Established	 	 	 
+Blacklion	 	Planned	 	 	 
+Cavan Town	Cathedral Road	Established	 	 	 
+Cavan Town	Tullac Mongan	Established	 	 	 
+Cavan Town	Kilnavara	Planned	 	 	 
+Cootehill	 	Established	 	 	 
+Killeshandra	 	Planned	 	 	 
+Kilnaleck	 	Established	 	 	 
+Kingscourt	 	Established	 	 	 
+Lough Gowna	 	Established	 	 	 
+Sherlock	 	Established	 	 	 
+Swanlinbar	 	Established	 	 	 
+Templeport	 	Established	 	 	 
+Virgina	 	Established
+
+Longford County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Granard 	 	Established	 	 	 
+Lanesbrough	 	Under Construction	 	 	 
+Longford Town 	The Mall	Established	 	 	 
+Longford Town 	The Mall ext for older children	Established	 	 	 
+Longford Town 	The Mall adv trail	Under Construction
+
+Westmeath County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Athlone	 	Established	 	 	 
+Athlone	Sarsfield	Under Construction	 	 	 
+Athlone	Lissywollen Blackberry Lane	Under Construction	 	 	 
+Kinnegoud	 	Established	 	 	 
+Mullingan	 	Established
+
+Monaghan County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ballybay	Town Park	Established	 	 	 
+Ballybay	Corrybrennan	Established	 	 	 
+Carrickmacross	Inishkeen	Established	 	 	 
+Carrickmacross	Clonseady	Established	 	 	 
+Carrickmacross	Cloughvalley	Established	 	 	 
+Carrickmacross	Gallows Hill	Established	 	 	 
+Carrickmacross	Convent lands	Under Construction	 	 	 
+Castleblaney	Oram	Established	 	 	 
+Castleblaney	Drumillard	Established	 	 	 
+Castleblaney	Bree	Under Construction	 	 	 
+Clones	O'Neill Park	Established	 	 	 
+Clones	Cherry Park	Established	 	 	 
+Clones	Cara Street	Established	 	 	 
+Emyvale	Doohamlet, Gortakeegan Halt	Planned	 	 	 
+Glaslough	Ardbannagher	Established	 	 	 
+Glaslough	 	Established	 	 	 
+Monaghan Town	Killygoan	Established	 	 	 
+Mullaghamatt	 	Established	 	 	 
+Newbliss	 	Established	 	 	 
+Rockcorry	 	Established	 	 	 
+Smithboro	Mulladuff	Established
+
+
+Meath County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ashbourne	 	Established	 	 	 
+Athboy	 	Established	 	 	 
+Athboy - Churchview	 	Established	 	 	 
+Duleek	 	Established	 	 	 
+Dunboyne	 	Established	 	 	 
+Dunshaughlin	 	Under Construction	 	 	 
+Kells	Fairgreen	Established	 	 	 
+Kells-	Lloyd	Established	 	 	 
+Navan	Borreen Keel	Established	 	 	 
+Navan	Claremont	Established	 	 	 
+Navan	St Columbas Crescent	Established	 	 	 
+Navan	New Town Park	Under Construction	 	 	 
+Navan	Cllr Andy Brennan Park	Under Construction	 	 	 
+Navan 	Clogherboy	Established	 	 	 
+Ninch, Laytown	 	Under Construction	 	 	 
+Oldcastle-Fairgreen	 	Established	 	 	 
+Ratoath	 	Under Construction	 	 	 
+Trim	 	Established
+
+Louth County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Ardee	Fair Green	Established	 	 	 
+Carlingford	Car Park/Fair Green	Established	 	 	 
+Drogheda	St.Dominick's Park	Established	 	 	 
+Dundalk	St.Helena Park	Established	 	 	 
+Dundalk	Muirhevnamor Dist.Pk	Established	 	 	 
+Dundalk	Ashling Park	Under Construction	 	 	 
+Omeath	Omeath Recreation Park	Established	 	 	 
+Stephenstown	Stephenstown Pond	Established
+
+Kildare County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Athy	 	Established	 	 	 
+Celbridge	Willowbrook Park	Established	 	 	 
+Kilcock	Bawnog	Established	 	 	 
+Kildare	Derrinturn	Established	 	 	 
+Kildare town	Lourdesville	Established	 	 	 
+Leixlip	Sports Centre	Established	 	 	 
+Maynooth	Harbour field	Established	 	 	 
+Naas	Monread Park	Established	 	 	 
+Naas church	 	Established	 	 	 
+Newbridge	Sports Centre	Established
+
+
+Laois County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Abbeyleix	Heritage House	Established	 	 	 
+Mountmellick	Willow Grove	Under Construction	 	 	 
+Mountrath	Amenity Park	Established	 	 	 
+Portarlington	People's Park	Established	 	 	 
+Portlaoise	Pairc an Phobail	Established
+
+Kilkenny County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Callan	The Fair Green	Established	 	 	 
+Castlecomer	Demesne	Established
+
+
+Castlecomer Description
+
+
+Fr.McGrath Centre	 	Established	 	 	 
+Garringreen	Hebron Park	Established	 	 	 
+Mooncoin	 	Established	 	 	 
+Mullinavat	 	Under constr	 	 	 
+Thomastown	 	Established	 	 	 
+Kilkenny (Office for Public Works)	Castle Park	Established
+
+Wexford County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Bunclody (Community Owned)	 	Established	 	 	 
+Duncannon	 	Under Construction	 	 	 
+Enniscorthy	Gimount	Established	 	 	 
+Enniscorthy	Davidson	Under Construction	 	 	 
+Enniscorthy	Riverside	Established	 	 	 
+Gorey	Courtown	Established	 	 	 
+Gorey Park	 	Established	 	 	 
+New Ross	Town Park	Established	 	 	 
+New Ross	Grant Play area	Established	 	 	 
+New Ross	Rosbercon	Under Construction	 	 	 
+Rosslare Harbour	St Brenden's	Under Construction	 	 	 
+Wellington Bridge	 	Under Construction	 	 	 
+Wexford	Maudlintown	Established	 	 	 
+Wexford	Belvedere	Established	 	 	 
+Wexford	Ferndale	Established	 	 	 
+Wexford	Ferrybank	Established	 	 	 
+Wexford	Wolfe Tone	Under Construction	 	 	 
+Wexford (Office for Public Works)	JFK Arboretum	Established
+
+Carlow County Council Playgrounds
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Bagenalstown	 	Established	 	 	 
+Borris	 	Under construction	 	 	 
+Carlow Town	Askeal Lawn and MT Park	Established	 	 	 
+Carlow Town	Town Park	Established	 	 	 
+Carlow Town	 	Established	 	 	 
+Hackenstown	 	Under construction	 	 	 
+Leighlinbridge	 	Established
+
+Wicklow County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Arklow	 	Established	 	 	 
+Blessington	 	Under Construction	 	 	 
+Bray	 	Established	 	 	 
+Bray	 	Established	 	 	 
+Bray	 	Established	 	 	 
+Bray	 	Established	 	 	 
+Charlesland	 	Established	 	 	 
+Greystones	 	Established	 	 	 
+Kilcoole	 	Under Construction	 	 	 
+Kilmacanogue	 	Established	 	 	 
+Newcastle	 	Established	 	 	 
+Wicklow Town	 	Established
+
+Dublin City Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Artane	Casino	Established	 	 	 
+Ballsbridge	Herbert Pk	Established	 	 	 
+Ballybough House, Ballybough	 	Established	 	 	 
+Ballyfermot	 	Established	 	 	 
+Ballyfermot	Markievicz Park	Established	 	 	 
+Ballyfermot	Marmion Court	Established	 	 	 
+Ballygall	Johnstown Park	Established	 	 	 
+Ballymun	Albert College Park	Established	 	 	 
+Ballymun	Balbutcher Lane(1)	Established	 	 	 
+Ballymun	Balbutcher Lane(2)	Established	 	 	 
+Ballymun	Balcurris Park	Established	 	 	 
+Ballymun	Coultry Park	Established	 	 	 
+Ballymun	Silloge Avenue	Established	 	 	 
+Ballymun	Silloge/Connolly	Established	 	 	 
+Ballymun	Ballcurrus	Planned	 	 	 
+Basin Lane, James Street	 	Established	 	 	 
+Beech Hill Park, Donnbrook	 	Established	 	 	 
+Bluebell	Bernard Curtis	Established	 	 	 
+Bluebell	Bluebell Park	Established	 	 	 
+Cabra 	Ventry Park	Established	 	 	 
+Chamber Court	Cherry Orchard Park	Established	 	 	 
+Coolock	Belcamp Park	Established	 	 	 
+Coolock	Cromcastle Court Kilmore	Established	 	 	 
+Coolock	Stardust Memorial Park	Established	 	 	 
+Cumberland	Avondale House	Planned	 	 	 
+Darndale Community Centre	 	Established	 	 	 
+Darndale Park	 	Established	 	 	 
+Diamond Park, Sean McDermott	 	Established	 	 	 
+Dolphin's Barn	Dolphin House	Established	 	 	 
+Donnycarney	Cherrymount Park	Established	 	 	 
+Dorset St Flats, Dorset St	 	Established	 	 	 
+Drimnagh	Brickfield Park	Established	 	 	 
+Drumcondra	Griffith Park	Established	 	 	 
+Dunne St & Clarence St Flats	 	Established	 	 	 
+Eamonn Ceannt Park, Sundrive Rd	 	Established	 	 	 
+East Wall Recreation Centre	 	Established	 	 	 
+Emmet Buildings, Watling	 	Established	 	 	 
+Fairview	Fairview Park	Established	 	 	 
+Finglas	Mellowes Park	Established	 	 	 
+Fitzgibbon Court, off North Cir Rd	 	Established	 	 	 
+Glasnevin	Courtlands	Established	 	 	 
+Hardwicke Street, Dorset Street	 	Established	 	 	 
+Harold's Cross	Harold's Cross Park	Established	 	 	 
+Inchicore	Jim Mitchell Park	Established	 	 	 
+Inchicore	Tyrone Place Flats	Established	 	 	 
+Inchiore	St.Michael's Estate	Established	 	 	 
+Islandbridge	Island Bridge Court	Established	 	 	 
+Islandsbridge	Sarah Place	Established	 	 	 
+Kevin Barry House, Bolton Street	 	Established	 	 	 
+Kilmainham	Ceannt Fort	Planned	 	 	 
+Larkin House, North Strand	 	Established	 	 	 
+Leo Fitzgerald House, Hogan Place	 	Established	 	 	 
+Liberty House, Railway St	 	Established	 	 	 
+Macken St Flats, Macket St	 	Established	 	 	 
+Markievicz House	 	Planned	 	 	 
+Marrowbone	Michael Mallin Hse	Established	 	 	 
+Mary Aikenhead House, James St	 	Established	 	 	 
+Matt Talbott Court, Charles Str	 	Established	 	 	 
+McGuiness Square, Pearse St	 	Established	 	 	 
+Mercer House, Aungier St	 	Established	 	 	 
+Merrion Square	 	Established	 	 	 
+Mountjoy Square Park	 	Established	 	 	 
+North William St & Charleville Mall	 	Established	 	 	 
+O'Deveney Gardens	 	Established	 	 	 
+Oiiver Bond Flats	 	Established	 	 	 
+Ormond Square, off Ormond Quay	 	Established	 	 	 
+Parnell Street	Hill Street	Established	 	 	 
+Pearse House, Pearse	 	Established	 	 	 
+Phibsboro	Broadstone Park	Established	 	 	 
+Pimlico	Braithwaite Street/Poole St	Established	 	 	 
+Poplar Row & Courtney Pl, Ballybough	 	Established	 	 	 
+Portland Square, North Circular Rd	 	Established	 	 	 
+Raheny	St.Annes Park	Established	 	 	 
+Ranelagh	Palmerston Park	Established	 	 	 
+Rathmines	Belgrave Square Park	Established	 	 	 
+Rathmines	Tranquilla Park	Established	 	 	 
+Rialto	Fatima Mansions	Established	 	 	 
+Ringsend	Ringsend Park	Established	 	 	 
+Ringsend	When O'Rahilly House	Established	 	 	 
+Santry	Shangan Park	Established	 	 	 
+Sheriff Street	 	Established	 	 	 
+South Docks	 	Planned	 	 	 
+St Mary's Mansions, Railway St	 	Established	 	 	 
+St.Michan's Flats, Church Street	 	Established	 	 	 
+St.Michan's Park, Halston Street	 	Established	 	 	 
+St.Patrick's Park, Patrick Street	 	Established	 	 	 
+St.Teresa's Gardens, Donore Av	 	Established	 	 	 
+Summerhill	Mountainview Court	Established	 	 	 
+Terenure	Bushy Park	Established	 	 	 
+Terenure	Neagh Road	Established	 	 	 
+Whitehall	Ellenfield Park	Established	 	 	 
+Dublin Phoenix Park (Office for Public Works)	People's Garden	Established	 	 	 
+Dublin (Office for Public Works)	St.Stephen's Green Park	Established
+
+Dun Laoghaire-Rathdown County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Blackrock Park	 	Established	 	 	 
+Cabinteely	 	Established	 	 	 
+Deerpak Mt Merrion	 	Established	 	 	 
+Library Road	 	Established	 	 	 
+Loreto Park	 	 	 	 	 
+Loughlinstown	 	Established	 	 	 
+Marlay	 	Established	 	 	 
+Peoples park	 	Established	 	 	 
+Shanganagh Park	 	Established
+
+South Dublin County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Camac Valley Camping Park	 	Established	 	 	 
+Clondalkin	Quarryvale	Established	 	 	 
+Corkagh Park	 	Established	 	 	 
+Fettercairn, West Tallaght	 	Established	 	 	 
+Jobstown, West Tallaght	 	Established	 	 	 
+Killinarden, West Tallaght	 	Established	 	 	 
+Lucan	Griffen Valley	Established	 	 	 
+Tymon Park	Greenhills Rd	Established	 	 	 
+Tymon Park	Wellington Lane	Established
+
+Fingal County Council
+Town	Address	Status	Facilities	Age Group	Disabled Access
+Balbriggan	Ardgillan Castle	Established	 	 	 
+Blanchardstown	Millennium Park	Established	 	 	 
+Carpenterstown	Riverwood Estate	Established	 	 	 
+Corduff Facility Park	 	Under Construction	 	 	 
+Donabate	Newbridge Demesne	Established	 	 	 
+Fortlawn	Fortlawn Community Centre	Under Construction	 	 	 
+Malahide	Malahide Castle	Established	 	 	 
+Malahide	Yellow Walls Road	Under Construction	 	 	 
+Mulhuddart	Mulhuddart Community Centre	Under Construction	 	 	 
+Portmarnock	PSLC	Under Construction	 	 	 
+Santry	Santry Demesne	Established	 	 	 
+Skerries	Red Island	Established	 	 	 
+Swords	Ward River Valley	Established	 	 	 
